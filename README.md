@@ -73,3 +73,8 @@
 ### PDF Virtual Printer
 
 * [doPDF](https://www.dopdf.com/)
+
+### PDF Reader
+
+* [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/)
+* [Adobe Acrobat Reader DC](https://get.adobe.com/reader/)
