@@ -83,3 +83,7 @@
 
 * [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 * [Calibre](https://calibre-ebook.com/)
+
+### ePub Editor
+
+* [Sigil](https://sigil-ebook.com/)
