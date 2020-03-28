@@ -11,3 +11,7 @@
 
 * [7-Zip](https://www.7-zip.org/)
 * [PeaZip](https://www.peazip.org/)
+
+### Git Client Tool
+
+* [GitKraken](https://www.gitkraken.com/)
