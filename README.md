@@ -66,6 +66,6 @@
 
 * [Malwarebytes Anti-Malware](https://www.malwarebytes.com/)
 
-### PDF
+### PDF Virtual Printer
 
 * [doPDF](https://www.dopdf.com/)
