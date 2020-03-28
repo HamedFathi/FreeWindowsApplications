@@ -3,15 +3,15 @@
 * [EagleGet](http://www.eagleget.com/)
 * [Free Download Manager](https://www.freedownloadmanager.org/)
 
-### Database Tool
+### Database
 
 * [DBeaver Community Edition](https://dbeaver.io/)
 
-### Compression Tool
+### Compression
 
 * [7-Zip](https://www.7-zip.org/)
 * [PeaZip](https://www.peazip.org/)
 
-### Git Client Tool
+### Git Client
 
 * [GitKraken](https://www.gitkraken.com/)
