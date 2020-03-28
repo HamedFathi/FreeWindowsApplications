@@ -5,4 +5,4 @@
 
 ### Database Tool
 
-[DBeaver Community Edition](https://dbeaver.io/)
+* [DBeaver Community Edition](https://dbeaver.io/)
