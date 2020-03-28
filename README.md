@@ -54,5 +54,10 @@
 
 ### Antivirus
 
-[Bitdefender Antivirus Free Edition](https://www.bitdefender.com/solutions/free.html)
-[Avast Free Antivirus](https://www.avast.com/free-antivirus-download)
+* [Bitdefender Antivirus Free Edition](https://www.bitdefender.com/solutions/free.html)
+* [Avast Free Antivirus](https://www.avast.com/free-antivirus-download)
+
+### Firewall
+
+* [Comodo Firewall Free Edition](https://personalfirewall.comodo.com/)
+* [ZoneAlarm Free Firewall](https://www.zonealarm.com/software/free-firewall)
