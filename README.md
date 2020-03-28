@@ -50,4 +50,4 @@
 
 ### Cleaning Tool
 
-* [CCleaner](https://www.ccleaner.com/) with [CCEnhancer](https://singularlabs.com/software/ccenhancer/)
+* [CCleaner](https://www.ccleaner.com/) plus [CCEnhancer](https://singularlabs.com/software/ccenhancer/)
