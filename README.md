@@ -38,3 +38,10 @@
 * [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)
 * [Microsoft Edge Chromium](https://www.microsoft.com/en-us/edge)
 * [Opera](https://www.opera.com/)
+
+### Media Player
+
+* [PotPlayer](https://potplayer.daum.net/)
+* [VLC media player](https://www.videolan.org/vlc/)
+
+
