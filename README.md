@@ -15,3 +15,15 @@
 ### Git Client
 
 * [GitKraken](https://www.gitkraken.com/)
+
+### 2D (Raster)
+
+[GIMP](https://www.gimp.org/)
+
+### 2D (Vector)
+
+[Inkscape](https://inkscape.org/)
+
+### 3D
+
+[Blender](https://www.blender.org/)
