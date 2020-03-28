@@ -31,3 +31,10 @@
 ### Office
 
 * [LibreOffice](https://www.libreoffice.org/)
+
+### Browser
+
+* [Google Chrome](https://www.google.com/chrome/)
+* [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)
+* [Microsoft Edge Chromium](https://www.microsoft.com/en-us/edge)
+* [Opera](https://www.opera.com/)
