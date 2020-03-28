@@ -51,3 +51,8 @@
 ### Cleaning Tool
 
 * [CCleaner](https://www.ccleaner.com/) plus [CCEnhancer](https://singularlabs.com/software/ccenhancer/)
+
+### Antivirus
+
+[Bitdefender Antivirus Free Edition](https://www.bitdefender.com/solutions/free.html)
+[Avast Free Antivirus](https://www.avast.com/free-antivirus-download)
