@@ -18,12 +18,12 @@
 
 ### 2D (Raster)
 
-[GIMP](https://www.gimp.org/)
+* [GIMP](https://www.gimp.org/)
 
 ### 2D (Vector)
 
-[Inkscape](https://inkscape.org/)
+* [Inkscape](https://inkscape.org/)
 
 ### 3D
 
-[Blender](https://www.blender.org/)
+* [Blender](https://www.blender.org/)
