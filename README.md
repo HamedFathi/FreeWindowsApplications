@@ -41,8 +41,12 @@
 
 ### Media Player
 
-* [PotPlayer](https://potplayer.daum.net/)
+* [PotPlayer](https://potplayer.daum.net/) with `OpenCode`
 * [VLC media player](https://www.videolan.org/vlc/)
+
+### Codec
+
+* [K-Lite](https://codecguide.com/)
 
 ### Cleaning Tool
 
