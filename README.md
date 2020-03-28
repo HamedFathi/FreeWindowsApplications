@@ -27,3 +27,7 @@
 ### 3D
 
 * [Blender](https://www.blender.org/)
+
+### Office
+
+* [LibreOffice](https://www.libreoffice.org/)
