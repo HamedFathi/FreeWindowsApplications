@@ -41,7 +41,7 @@
 
 ### Media Player
 
-* [PotPlayer](https://potplayer.daum.net/) with `OpenCode`
+* [PotPlayer](https://potplayer.daum.net/) with `OpenCodec`
 * [VLC media player](https://www.videolan.org/vlc/)
 
 ### Codec
