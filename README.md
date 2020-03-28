@@ -6,3 +6,8 @@
 ### Database Tool
 
 * [DBeaver Community Edition](https://dbeaver.io/)
+
+### Compression Tool
+
+* [7-Zip](https://www.7-zip.org/)
+* [PeaZip](https://www.peazip.org/)
