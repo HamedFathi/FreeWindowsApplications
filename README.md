@@ -61,3 +61,7 @@
 
 * [Comodo Firewall Free Edition](https://personalfirewall.comodo.com/)
 * [ZoneAlarm Free Firewall](https://www.zonealarm.com/software/free-firewall)
+
+### Anti-Malware
+
+* [Malwarebytes Anti-Malware](https://www.malwarebytes.com/)
