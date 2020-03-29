@@ -112,5 +112,10 @@
 * [Wise Program Uninstaller](https://www.wisecleaner.com/wise-program-uninstaller.html)
 * [Revo Uninstaller Free](https://www.revouninstaller.com/products/revo-uninstaller-free/)
 
+### Communication Tool
 
+* [Telegram](https://telegram.org/)
+* [WhatsApp](https://www.whatsapp.com/)
+* [Skype](https://www.skype.com/en/)
+* [Discord](https://discordapp.com/)
 
