@@ -92,6 +92,7 @@
 
 * [CodeLite](https://codelite.org/)
 * [Code::Blocks](http://www.codeblocks.org/)
+* [Qt Creator](https://www.qt.io/)
 
 ### Microsoft .NET IDE
 
