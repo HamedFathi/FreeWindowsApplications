@@ -11,6 +11,7 @@
 
 * [Microsoft SQL Server Developer Edition](https://www.microsoft.com/en-us/sql-server)
 * [PostgreSQL](https://www.postgresql.org/)
+* [MySQL Community Edition](https://www.mysql.com/)
 
 ### NoSQL Database Server
 
