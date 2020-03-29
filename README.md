@@ -70,7 +70,7 @@
 
 * [Malwarebytes Anti-Malware](https://www.malwarebytes.com/)
 
-### PDF Virtual Printer
+### PDF Creator
 
 * [doPDF](https://www.dopdf.com/)
 
