@@ -7,7 +7,17 @@
 * [EagleGet](http://www.eagleget.com/)
 * [Free Download Manager](https://www.freedownloadmanager.org/)
 
-### Database
+### Relational Database Server
+
+* [Microsoft SQL Server Developer Edition](https://www.microsoft.com/en-us/sql-server)
+* [PostgreSQL](https://www.postgresql.org/)
+
+### NoSQL Database Server
+
+* [MongoDB Community Edition](https://www.mongodb.com/)
+* [Redis](https://redis.io/)
+
+### Database Client Tool
 
 * [DBeaver Community Edition](https://dbeaver.io/)
 
