@@ -105,3 +105,12 @@
 ### Email Client
 
 * [Thunderbird](https://www.thunderbird.net/en-US/) with [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/)
+
+### Uninstaller 
+
+* [IObit Uninstaller Free](https://www.iobit.com/en/advanceduninstaller.php)
+* [Wise Program Uninstaller](https://www.wisecleaner.com/wise-program-uninstaller.html)
+* [Revo Uninstaller Free](https://www.revouninstaller.com/products/revo-uninstaller-free/)
+
+
+
