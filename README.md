@@ -97,3 +97,7 @@
 ### Microsoft .NET IDE
 
 * [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
+
+### Text Editor
+
+* [Notepad++](https://notepad-plus-plus.org/)
