@@ -119,3 +119,6 @@
 * [Skype](https://www.skype.com/en/)
 * [Discord](https://discordapp.com/)
 
+### RSS Reader
+
+* [RSSOwl](http://www.rssowl.org/)
