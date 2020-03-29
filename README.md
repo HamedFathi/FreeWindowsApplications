@@ -87,3 +87,12 @@
 ### ePub Editor
 
 * [Sigil](https://sigil-ebook.com/)
+
+### C/C++ IDE
+
+* [CodeLite](https://codelite.org/)
+* [Code::Blocks](http://www.codeblocks.org/)
+
+### Microsoft .NET IDE
+
+* [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
