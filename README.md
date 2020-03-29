@@ -122,3 +122,7 @@
 ### RSS Reader
 
 * [RSSOwl](http://www.rssowl.org/)
+
+### Shutdown Tool
+
+* [Wise Auto Shutdown](https://www.wisecleaner.com/wise-auto-shutdown.html)
