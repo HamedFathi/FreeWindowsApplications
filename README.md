@@ -1,4 +1,15 @@
-BitTorrent Client Tool
+### Video Capturing Tool
+
+* [ScreenToGif](https://www.screentogif.com/)
+* [Screencast-O-Matic](https://screencast-o-matic.com/)
+* [OBS Studio](https://obsproject.com/)
+
+### Screen Capturing Tool
+
+* [Lightshot](https://app.prntscr.com/en/index.html)
+* [ShareX](https://getsharex.com/)
+
+### BitTorrent Client Tool
 
 * [qBittorrent](https://www.qbittorrent.org/)
 
