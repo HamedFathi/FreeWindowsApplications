@@ -1,3 +1,7 @@
+BitTorrent Client Tool
+
+* [qBittorrent](https://www.qbittorrent.org/)
+
 ### System Information
 
 * [HWiNFO](https://www.hwinfo.com/)
