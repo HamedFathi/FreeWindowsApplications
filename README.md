@@ -1,3 +1,8 @@
+### Partition Manager
+
+* [MiniTool Partition Wizard Free Edition](https://www.partitionwizard.com/free-partition-manager.html)
+* [EaseUS Partition Master Free](https://www.easeus.com/partition-manager/epm-free.html)
+
 ### Disk Space Analyzer
 
 * [TreeSize Free](https://www.jam-software.com/treesize_free)
