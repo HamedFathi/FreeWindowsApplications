@@ -1,3 +1,7 @@
+### Mind-Mapping Tool
+
+* [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
+
 ### Password Manager
 
 * [KeePass](https://keepass.info/)
