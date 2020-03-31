@@ -1,3 +1,7 @@
+### Compare Tool
+
+* [WinMerge](https://winmerge.org/) with [DiffMerge](https://sourcegear.com/diffmerge/)
+
 ### Partition Manager
 
 * [MiniTool Partition Wizard Free Edition](https://www.partitionwizard.com/free-partition-manager.html)
