@@ -49,6 +49,7 @@
 ### System Information
 
 * [HWiNFO](https://www.hwinfo.com/)
+* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
 
 ### File Destruction
 
