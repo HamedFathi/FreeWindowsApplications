@@ -1,6 +1,7 @@
 ### Disk Space Analyzer
 
 * [TreeSize Free](https://www.jam-software.com/treesize_free)
+* [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html)
 
 ### Search Tool
 
