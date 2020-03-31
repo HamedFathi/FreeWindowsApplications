@@ -1,3 +1,10 @@
+### Search Tool
+
+* [Everything](https://www.voidtools.com/)
+* [Lookeen](https://free.lookeen.com/)
+* [Listary](https://www.listary.com/)
+* [UltraSearch](https://www.jam-software.com/ultrasearch)
+
 ### Windows System Utility
 
 * [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
