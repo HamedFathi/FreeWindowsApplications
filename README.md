@@ -29,6 +29,10 @@
 
 * [Dropbox](https://www.dropbox.com/)
 
+### Video Editor
+
+* [Shotcut](https://shotcut.org/)
+
 ### Video Converter
 
 * [HandBrake](https://handbrake.fr/)
