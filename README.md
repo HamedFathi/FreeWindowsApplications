@@ -1,3 +1,8 @@
+### Virtual Drive
+
+* [Virtual CloneDrive](https://www.elby.ch/en/products/vcd.html)
+* [WinCDEmu](https://wincdemu.sysprogs.org/)
+
 ### Mind-Mapping Tool
 
 * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
