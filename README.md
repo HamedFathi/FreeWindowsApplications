@@ -1,3 +1,7 @@
+### Disk Space Analyzer
+
+* [TreeSize Free](https://www.jam-software.com/treesize_free)
+
 ### Search Tool
 
 * [Everything](https://www.voidtools.com/)
