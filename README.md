@@ -1,3 +1,7 @@
+### Password Manager
+
+* [KeePass](https://keepass.info/)
+
 ### FTP Tool
 
 * [FileZilla Client & Server](https://filezilla-project.org/)
