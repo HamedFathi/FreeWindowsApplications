@@ -1,3 +1,19 @@
+### File Synchronization
+
+* [Dropbox](https://www.dropbox.com/)
+
+### Video Converter
+
+* [HandBrake](https://handbrake.fr/)
+
+### Recovery Tool
+
+* [Recuva](https://www.ccleaner.com/recuva)
+
+### Burning Tool
+
+* [CDBurnerXP](https://cdburnerxp.se/en/home)
+
 ### Eyes Protection
 
 * [f.lux](https://justgetflux.com/)
