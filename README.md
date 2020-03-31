@@ -61,6 +61,12 @@
 ### Recovery Tool
 
 * [Recuva](https://www.ccleaner.com/recuva)
+* [EaseUS Data Recovery Wizard Free](https://www.easeus.com/datarecoverywizard/free-data-recovery-software.htm)
+
+### Backup Tool
+
+* [EaseUS Todo Backup Free](https://www.easeus.com/backup-software/tb-free.html)
+* [Paragon Backup & Recovery Community Edition](https://www.paragon-software.com/free/br-free/)
 
 ### Burning Tool
 
