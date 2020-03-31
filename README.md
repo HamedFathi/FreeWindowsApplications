@@ -1,3 +1,7 @@
+### Web Debugging Tool
+
+* [Telerik Fiddler](https://www.telerik.com/fiddler)
+
 ### Network Protocol Analyzer
 
 * [Wireshark](https://www.wireshark.org/)
