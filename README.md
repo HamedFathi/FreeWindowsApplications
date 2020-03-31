@@ -130,9 +130,17 @@
 
 * [Inkscape](https://inkscape.org/)
 
+### 2D CAD
+
+* [LibreCAD](https://librecad.org/)
+
 ### 3D
 
 * [Blender](https://www.blender.org/)
+
+### 3D CAD 
+
+* [FreeCAD](https://www.freecadweb.org/)
 
 ### Office
 
