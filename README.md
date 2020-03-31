@@ -1,3 +1,15 @@
+### System Information
+
+* [HWiNFO](https://www.hwinfo.com/)
+
+### File Destruction
+
+* [Eraser](https://eraser.heidi.ie/)
+
+### Virtual Machine
+
+* [Oracle VirtualBox](https://www.virtualbox.org/)
+
 ### File Synchronization
 
 * [Dropbox](https://www.dropbox.com/)
