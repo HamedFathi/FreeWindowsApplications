@@ -218,8 +218,8 @@
 
 ### C/C++ IDE
 
-* [CodeLite](https://codelite.org/)
 * [Code::Blocks](http://www.codeblocks.org/)
+* [CodeLite](https://codelite.org/)
 * [Qt Creator](https://www.qt.io/)
 
 ### Microsoft .NET IDE
