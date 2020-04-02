@@ -216,6 +216,10 @@
 
 * [Sigil](https://sigil-ebook.com/)
 
+### JS/TS Editor
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+
 ### C/C++ IDE
 
 * [Code::Blocks](http://www.codeblocks.org/)
