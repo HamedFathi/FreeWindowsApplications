@@ -129,6 +129,8 @@
 ### Database Client Tool
 
 * [DBeaver Community Edition](https://dbeaver.io/)
+* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
+* [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 
 ### Compression
 
