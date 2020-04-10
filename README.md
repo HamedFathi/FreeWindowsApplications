@@ -1,6 +1,6 @@
 ### File/Folder Renamer Tool
 
-[Flexible Renamer](https://hp.vector.co.jp/authors/VA014830/english/FlexRena/) => [Download](https://mega.nz/file/nzx3RQaB#AjbN2LEuQGxvWBQDWwj2WS_rMGF3pVIqM5hZgMbMc58)
+* [Flexible Renamer](https://hp.vector.co.jp/authors/VA014830/english/FlexRena/) => [Download](https://mega.nz/file/nzx3RQaB#AjbN2LEuQGxvWBQDWwj2WS_rMGF3pVIqM5hZgMbMc58)
 
 ### Web Debugging Tool
 
