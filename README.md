@@ -230,6 +230,17 @@
 * [CodeLite](https://codelite.org/)
 * [Qt Creator](https://www.qt.io/)
 
+### Java IDE
+
+* [Eclipse IDE for Enterprise Java Developers](https://www.eclipse.org/downloads/packages/)
+* [Spring Tools for Eclipse](https://spring.io/tools)
+* [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/)
+
+### Python IDE
+
+* [PyCharm Community](https://www.jetbrains.com/pycharm/download)
+* [PyDev](https://www.pydev.org/)
+
 ### Microsoft .NET IDE
 
 * [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
