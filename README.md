@@ -229,6 +229,7 @@
 * [Code::Blocks](http://www.codeblocks.org/)
 * [CodeLite](https://codelite.org/)
 * [Qt Creator](https://www.qt.io/)
+* [Eclipse IDE for C/C++ Developers](https://www.eclipse.org/downloads/packages/)
 
 ### Java IDE
 
@@ -240,6 +241,12 @@
 
 * [PyCharm Community](https://www.jetbrains.com/pycharm/download)
 * [PyDev](https://www.pydev.org/)
+
+### PHP IDE
+
+* [XAMPP](https://www.apachefriends.org/index.html)
+* [EasyPHP](https://www.easyphp.org/)
+* [Eclipse IDE for PHP Developers](https://www.eclipse.org/downloads/packages/)
 
 ### Microsoft .NET IDE
 
