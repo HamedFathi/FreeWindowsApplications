@@ -1,6 +1,6 @@
 ### File/Folder Renamer Tool
 
-* [Flexible Renamer](https://hp.vector.co.jp/authors/VA014830/english/FlexRena/) - [Download](https://mega.nz/file/nzx3RQaB#AjbN2LEuQGxvWBQDWwj2WS_rMGF3pVIqM5hZgMbMc58) or [Download](http://www.mediafire.com/file/f32v3uvatqsvfc5/Flexible_Renamer_8.4.zip)
+* [Flexible Renamer](https://hp.vector.co.jp/authors/VA014830/english/FlexRena/) - [[Download](https://mega.nz/file/nzx3RQaB#AjbN2LEuQGxvWBQDWwj2WS_rMGF3pVIqM5hZgMbMc58) or [Download](http://www.mediafire.com/file/f32v3uvatqsvfc5/Flexible_Renamer_8.4.zip) or [Download](https://www53.zippyshare.com/v/xezfR2Dz/file.html)]
 
 ### Web Debugging Tool
 
@@ -115,6 +115,7 @@
 * [Audacity](https://www.audacityteam.org/)
 
 ### Download Manager
+
 * [Internet Download Accelerator](https://westbyte.com/ida/)
 * [EagleGet](http://www.eagleget.com/)
 * [Free Download Manager](https://www.freedownloadmanager.org/)
@@ -168,6 +169,7 @@
 ### Office
 
 * [LibreOffice](https://www.libreoffice.org/)
+* [OpenOffice](https://www.openoffice.org/)
 
 ### Browser
 
@@ -222,10 +224,6 @@
 
 * [Sigil](https://sigil-ebook.com/)
 
-### JS/TS Editor
-
-* [Visual Studio Code](https://code.visualstudio.com/)
-
 ### C/C++ IDE
 
 * [Code::Blocks](http://www.codeblocks.org/)
@@ -235,6 +233,55 @@
 ### Microsoft .NET IDE
 
 * [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
+    * [Roslynator](https://github.com/JosefPihrt/Roslynator)
+
+### JS/TS/C# Editor
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+    * [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+    * [F#](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)
+    * [NativeScript](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript)
+    * [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
+    * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+    * [Rust (rls)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
+    * [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+    * [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions)
+    * [C# Classy Naming](https://marketplace.visualstudio.com/items?itemName=reflectiondm.ClassyNaming)
+    * [C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment)
+    * [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
+    * [ASP.NET Core Snippets](https://marketplace.visualstudio.com/items?itemName=rahulsahay.Csharp-ASPNETCore)
+    * [Essential ASP.NET Core 3 Snippets](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-snippets)
+    * [MSBuild project tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
+    * [Typescript Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+    * [Git Annotator](https://marketplace.visualstudio.com/items?itemName=ryu1kn.annotator)
+    * [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
+    * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+    * [Git History Diff](https://marketplace.visualstudio.com/items?itemName=huizhou.githd)
+    * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+    * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+    * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+    * [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+    * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+    * [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
+    * [GraphQL for VSCode](https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode)
+    * [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
+    * [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
+    * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+    * [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) Or [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+    * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+    * [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
+    * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+    * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+    * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+    * [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
+    * [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+    * [Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
+    * [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
+    * [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
+    * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+    * [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+    * [SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
+    * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 ### Text Editor
 
