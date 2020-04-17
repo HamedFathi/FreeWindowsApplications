@@ -244,7 +244,23 @@
 ### Microsoft .NET IDE
 
 * [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
-    * [Roslynator](https://github.com/JosefPihrt/Roslynator)
+    * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs)
+    * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)
+    * [SQLite/SQL Server Compact Toolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox)
+    * [Roslynator 2019](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2019)
+    * [Web Essentials 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019)
+    * [CSS Tools 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CssTools2019)
+    * [AsyncFixer](https://marketplace.visualstudio.com/items?itemName=SemihOkur.AsyncFixer)
+    * [GitHub Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio)
+    * [Clr Heap Allocation Analyzer](https://marketplace.visualstudio.com/items?itemName=MukulSabharwal.ClrHeapAllocationAnalyzer)
+    * [Color Picker](https://marketplace.visualstudio.com/items?itemName=ShemeerNS.ColorPicker)
+    * [NUnit 3 Test Adapter](https://marketplace.visualstudio.com/items?itemName=NUnitDevelopers.NUnit3TestAdapter)
+    * [Open Command Line](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)
+    * [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
+    * [Serilog Analyzer](https://marketplace.visualstudio.com/items?itemName=Suchiman.SerilogAnalyzer)
+    * [SideWaffle Creator](https://marketplace.visualstudio.com/items?itemName=Sayed-Ibrahim-Hashimi.SidewaffleCreator2017)
+    * [MappingGenerator](https://marketplace.visualstudio.com/items?itemName=54748ff9-45fc-43c2-8ec5-cf7912bc3b84.mappinggenerator)
+    * [EF Core Power Tools](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools)
 
 ### JS/TS/C# Editor
 
