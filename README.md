@@ -229,6 +229,7 @@
 * [Code::Blocks](http://www.codeblocks.org/)
 * [CodeLite](https://codelite.org/)
 * [Qt Creator](https://www.qt.io/)
+* [Cevelop](https://www.cevelop.com/)
 * [Eclipse IDE for C/C++ Developers](https://www.eclipse.org/downloads/packages/)
 
 ### Java IDE
@@ -309,6 +310,8 @@
     * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
     * [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
     * [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+    * [EJS language support](https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support)
+    * [EJS Snippets](https://marketplace.visualstudio.com/items?itemName=Theran.ejs-snippets)
     * [Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
     * [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
     * [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
