@@ -332,7 +332,7 @@
 
 ### Email Client
 
-* [Thunderbird](https://www.thunderbird.net/en-US/) with [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/)
+* [Thunderbird](https://www.thunderbird.net/en-US/) with [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/) and [Birdtray](https://github.com/gyunaev/birdtray)
 
 ### Uninstaller 
 
