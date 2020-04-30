@@ -40,6 +40,11 @@
 * [Virtual CloneDrive](https://www.elby.ch/en/products/vcd.html)
 * [WinCDEmu](https://wincdemu.sysprogs.org/)
 
+### Free Modeling Software Tool
+
+[Visual Paradigm Community Edition](https://www.visual-paradigm.com/editions/community/)
+[Modelio](https://www.modelio.org/)
+
 ### Mind-Mapping Tool
 
 * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
@@ -216,7 +221,7 @@
 * [Adobe Acrobat Reader DC](https://get.adobe.com/reader/)
 
 ### ePub Reader
-
+* 
 * [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 * [Calibre](https://calibre-ebook.com/)
 
@@ -293,6 +298,7 @@
     * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
     * [Git History Diff](https://marketplace.visualstudio.com/items?itemName=huizhou.githd)
     * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+    * [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
     * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
     * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
     * [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
