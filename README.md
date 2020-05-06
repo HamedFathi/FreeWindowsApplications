@@ -42,8 +42,8 @@
 
 ### Free Modeling Software Tool
 
-[Visual Paradigm Community Edition](https://www.visual-paradigm.com/editions/community/)
-[Modelio](https://www.modelio.org/)
+* [Visual Paradigm Community Edition](https://www.visual-paradigm.com/editions/community/)
+* [Modelio](https://www.modelio.org/)
 
 ### Mind-Mapping Tool
 
