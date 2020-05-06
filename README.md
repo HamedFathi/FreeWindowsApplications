@@ -222,7 +222,7 @@
 * [Adobe Acrobat Reader DC](https://get.adobe.com/reader/)
 
 ### ePub Reader
-* 
+
 * [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 * [Calibre](https://calibre-ebook.com/)
 
