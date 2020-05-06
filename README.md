@@ -5,6 +5,7 @@
 ### Web Debugging Tool
 
 * [Telerik Fiddler](https://www.telerik.com/fiddler)
+* [Telerik Fiddler Everywhere](https://www.telerik.com/fiddler-everywhere)
 
 ### Network Protocol Analyzer
 
