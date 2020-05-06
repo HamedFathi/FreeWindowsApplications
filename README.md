@@ -229,6 +229,10 @@
 
 * [Sigil](https://sigil-ebook.com/)
 
+### SQLite IDE
+
+* [SQLite Studio](https://sqlitestudio.pl/)
+
 ### C/C++ IDE
 
 * [Code::Blocks](http://www.codeblocks.org/)
