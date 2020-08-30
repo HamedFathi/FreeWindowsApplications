@@ -330,6 +330,7 @@
     * [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
     * [SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
     * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+    * [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 
 ### Text Editor
 
