@@ -253,7 +253,7 @@
 * [PyCharm Community](https://www.jetbrains.com/pycharm/download)
 * [PyDev](https://www.pydev.org/)
 
-### PHP IDE
+### PHP
 
 * [XAMPP](https://www.apachefriends.org/index.html)
 * [EasyPHP](https://www.easyphp.org/)
