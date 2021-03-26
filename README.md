@@ -20,7 +20,7 @@
 | ePub Reader                   | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)<br/>[Calibre](https://calibre-ebook.com/) |
 | Email Client                  | [Thunderbird](https://www.thunderbird.net/en-US/) with [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/) and [Birdtray](https://github.com/gyunaev/birdtray) |
 | Eyes Protection               | [f.lux](https://justgetflux.com/)                            |
-| File and Folder Renamer       | [Flexible Renamer](https://hp.vector.co.jp/authors/VA014830/english/FlexRena/) - [[Download](https://mega.nz/file/nzx3RQaB#AjbN2LEuQGxvWBQDWwj2WS_rMGF3pVIqM5hZgMbMc58) or [Download](http://www.mediafire.com/file/f32v3uvatqsvfc5/Flexible_Renamer_8.4.zip) or [Download](https://www53.zippyshare.com/v/xezfR2Dz/file.html)] |
+| File and Folder Renamer       | [Flexible Renamer](https://hp.vector.co.jp/authors/VA014830/english/FlexRena/)<br/>&nbsp;&nbsp;&nbsp;&nbsp;[Download](https://mega.nz/file/nzx3RQaB#AjbN2LEuQGxvWBQDWwj2WS_rMGF3pVIqM5hZgMbMc58)<br/>&nbsp;&nbsp;&nbsp;&nbsp;[Download](http://www.mediafire.com/file/f32v3uvatqsvfc5/Flexible_Renamer_8.4.zip)<br/>&nbsp;&nbsp;&nbsp;&nbsp;[Download](https://www53.zippyshare.com/v/xezfR2Dz/file.html) |
 | File Destruction              | [Eraser](https://eraser.heidi.ie/)                           |
 | File Storage                  | [Dropbox](https://www.dropbox.com/)                          |
 | Firewall                      | [Comodo Firewall Free Edition](https://personalfirewall.comodo.com/)<br/>[ZoneAlarm Free Firewall](https://www.zonealarm.com/software/free-firewall) |
