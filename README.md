@@ -1,5 +1,5 @@
 | Category                      | Tools                                                        |
-| ----------------------------- | :----------------------------------------------------------- |
+| :---------------------------- | :----------------------------------------------------------- |
 | 2D Tool                       | [LibreCAD](https://librecad.org/) (CAD)<br>[GIMP](https://www.gimp.org/) (Raster)<br/>[Inkscape](https://inkscape.org/) (Vector) |
 | 3D Tool                       | [Blender](https://www.blender.org/)<br/>[FreeCAD](https://www.freecadweb.org) (CAD) |
 | Anti-Malware                  | [Malwarebytes Anti-Malware](https://www.malwarebytes.com/)   |
