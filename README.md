@@ -60,6 +60,6 @@
 | Video Editor                  | [Shotcut](https://shotcut.org/)                              |
 | Virtual Drive                 | [WinCDEmu](https://wincdemu.sysprogs.org/)<br/>[Virtual CloneDrive](https://www.elby.ch/en/products/vcd.html) |
 | Virtual Machine               | [Oracle VirtualBox](https://www.virtualbox.org/)             |
-| Web Debugging                 | [Telerik Fiddler](https://www.telerik.com/fiddler)<br/>[Telerik Fiddler Everywhere](https://www.telerik.com/fiddler-everywhere) |
+| Web Debugging                 | [Telerik Fiddler](https://www.telerik.com/fiddler) |
 | Windows Debugging | [x64dbg](https://github.com/x64dbg/x64dbg) |
 | Windows System Utility        | [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) |
