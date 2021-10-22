@@ -1,7 +1,7 @@
 | Category                      | Tools                                                        |
 | :---------------------------- | :----------------------------------------------------------- |
-| 2D Tool                       | [LibreCAD](https://librecad.org/) (CAD)<br>[GIMP](https://www.gimp.org/) (Raster)<br/>[Inkscape](https://inkscape.org/) (Vector) |
-| 3D Tool                       | [Blender](https://www.blender.org/)<br/>[FreeCAD](https://www.freecadweb.org) (CAD) |
+| 2D Tool                       | [LibreCAD](https://librecad.org/) (CAD)<br>[GIMP](https://www.gimp.org/) (Raster)<br/>[Inkscape](https://inkscape.org/) (Vector)<br/>[Krita](https://krita.org/) (Painting) |
+| 3D Tool                       | [Blender](https://www.blender.org/)<br/>[FreeCAD](https://www.freecadweb.org) (CAD)<br/>[ZBrushCoreMini](https://zbrushcore.com/mini/) (Sculpting) |
 | Anti-Malware                  | [Malwarebytes Anti-Malware](https://www.malwarebytes.com/)   |
 | Antivirus                     | [Bitdefender Antivirus Free Edition](https://www.bitdefender.com/solutions/free.html)<br/>[Avast Free Antivirus](https://www.avast.com/free-antivirus-download) |
 | Audio Tool                    | [Audacity](https://www.audacityteam.org/)                    |
@@ -16,6 +16,7 @@
 | Compression                   | [7-Zip](https://www.7-zip.org/)<br/>[PeaZip](https://www.peazip.org/) |
 | Database Client Tool          | [DBeaver Community Edition](https://dbeaver.io/)<br/>[Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)<br/>[SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) |
 | Disk Space Analyzer           | [TreeSize Free](https://www.jam-software.com/treesize_free)<br/>[SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) |
+| DjVu Reader | [WinDjView](https://sourceforge.net/projects/windjview/) |
 | Download Manager              | [Internet Download Accelerator Free Edition](https://westbyte.com/ida/)<br/>[EagleGet](http://www.eagleget.com/)<br/>[Free Download Manager](https://www.freedownloadmanager.org/) |
 | ePub Reader                   | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)<br/>[Calibre](https://calibre-ebook.com/) |
 | Email Client                  | [Thunderbird](https://www.thunderbird.net/en-US/) with [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/) and [Birdtray](https://github.com/gyunaev/birdtray) |
@@ -25,17 +26,17 @@
 | File Storage                  | [Dropbox](https://www.dropbox.com/)                          |
 | Firewall                      | [Comodo Firewall Free Edition](https://personalfirewall.comodo.com/)<br/>[ZoneAlarm Free Firewall](https://www.zonealarm.com/software/free-firewall) |
 | FTP Tool                      | [FileZilla Client & Server](https://filezilla-project.org/)  |
-| Git Client                    | [GitKraken](https://www.gitkraken.com/)                      |
+| Git Client                    | [GitKraken](https://www.gitkraken.com/)<br/>[Sourcetree](https://www.sourcetreeapp.com/)|
 | Java IDE                      | [Eclipse IDE for Enterprise<br/>Java Developers](https://www.eclipse.org/downloads/packages/)<br/>[Spring Tools for Eclipse](https://spring.io/tools)<br/>[IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/) |
 | JavaScript and TypeScript IDE | [Visual Studio Code](https://code.visualstudio.com/)         |
 | Markdown Editor               | [Typora](https://typora.io/)<br/>[Mark Text](https://marktext.app/) |
-| Media Player                  | [PotPlayer](https://potplayer.daum.net/) with `OpenCodec`<br/>[VLC media player](https://www.videolan.org/vlc/) |
+| Media Player                  | [AIMP](https://www.aimp.ru/)<br/>[PotPlayer](https://potplayer.daum.net/) with `OpenCodec`<br/>[VLC media player](https://www.videolan.org/vlc/) |
 | Messenger Tool                | [Telegram](https://telegram.org/)<br/>[WhatsApp](https://www.whatsapp.com/)<br/>[Discord](https://discordapp.com/) |
 | Microsoft .NET IDE            | [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) |
 | Mind Mapping                  | [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) |
 | Modeling Software             | [Visual Paradigm Community Edition](https://www.visual-paradigm.com/editions/community/)<br/>[Modelio](https://www.modelio.org/) |
 | Network Protocol Analyzer     | [Wireshark](https://www.wireshark.org/)                      |
-| NoSQL Database Server         | [MongoDB Community Edition](https://www.mongodb.com/)<br/>[Redis](https://redis.io/) |
+| NoSQL Database Server         | [MongoDB Community Edition](https://www.mongodb.com/)<br/>[Redis](https://redis.io/) with [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) |
 | Office                        | [LibreOffice](https://www.libreoffice.org/)<br/>[OpenOffice](https://www.openoffice.org/) |
 | Partition Manager             | [MiniTool Partition Wizard Free Edition](https://www.partitionwizard.com/free-partition-manager.html)<br/>[EaseUS Partition Master Free](https://www.easeus.com/partition-manager/epm-free.html) |
 | Password Manager              | [KeePass](https://keepass.info/)                             |
@@ -60,4 +61,5 @@
 | Virtual Drive                 | [WinCDEmu](https://wincdemu.sysprogs.org/)<br/>[Virtual CloneDrive](https://www.elby.ch/en/products/vcd.html) |
 | Virtual Machine               | [Oracle VirtualBox](https://www.virtualbox.org/)             |
 | Web Debugging                 | [Telerik Fiddler](https://www.telerik.com/fiddler)<br/>[Telerik Fiddler Everywhere](https://www.telerik.com/fiddler-everywhere) |
+| Windows Debugging | [x64dbg](https://github.com/x64dbg/x64dbg) |
 | Windows System Utility        | [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) |
