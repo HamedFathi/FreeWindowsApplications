@@ -32,7 +32,7 @@
 | Git Client                    | [GitKraken](https://www.gitkraken.com/)<br/>[Sourcetree](https://www.sourcetreeapp.com/)|
 | Java IDE                      | [Eclipse IDE for Enterprise<br/>Java Developers](https://www.eclipse.org/downloads/packages/)<br/>[Spring Tools for Eclipse](https://spring.io/tools)<br/>[IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/) |
 | JavaScript and TypeScript IDE | [Visual Studio Code](https://code.visualstudio.com/)         |
-| Markdown Editor               | [Typora](https://typora.io/)<br/>[Mark Text](https://marktext.app/) |
+| Markdown Editor               | [Mark Text](https://marktext.app/) |
 | Media Player                  | [AIMP](https://www.aimp.ru/)<br/>[PotPlayer](https://potplayer.daum.net/) with `OpenCodec`<br/>[VLC media player](https://www.videolan.org/vlc/) |
 | Messenger Tool                | [Telegram](https://telegram.org/)<br/>[WhatsApp](https://www.whatsapp.com/)<br/>[Discord](https://discordapp.com/) |
 | Microsoft .NET IDE            | [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) |
