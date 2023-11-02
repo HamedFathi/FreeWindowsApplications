@@ -17,7 +17,7 @@
 | Codec Pack                    | [K-Lite](https://codecguide.com/)                            |
 | Compare Tool                  | [WinMerge](https://winmerge.org/) with [DiffMerge](https://sourcegear.com/diffmerge/) |
 | Compression                   | [7-Zip](https://www.7-zip.org/)<br/>[PeaZip](https://www.peazip.org/) |
-| Database Client Tool          | [DBeaver Community Edition](https://dbeaver.io/)<br/>[Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)<br/>[SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) |
+| Database Client Tool          | [HeidiSQL](https://www.heidisql.com/)<br/>[DBeaver Community Edition](https://dbeaver.io/)<br/>[Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)<br/>[SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) |
 | Disk Space Analyzer           | [TreeSize Free](https://www.jam-software.com/treesize_free)<br/>[SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) |
 | DjVu Reader | [WinDjView](https://sourceforge.net/projects/windjview/) |
 | Download Manager              | [Internet Download Accelerator Free Edition](https://westbyte.com/ida/)<br/>[EagleGet](http://www.eagleget.com/)<br/>[Free Download Manager](https://www.freedownloadmanager.org/) |
